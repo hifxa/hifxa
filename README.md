@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hifza
-- 👀 I’m interested in analytics and web dev
-- 🌱 I’m currently learning android app development
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning angular and springboot
 - 📫 How to reach me - www.linkedin.com/in/hifza-221b
